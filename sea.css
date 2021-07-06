@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+header{
+  background: url(https://i.pinimg.com/564x/82/03/9b/82039b5f544e70a38242e861546d2ff8.jpg) no-repeat center top / cover;
+}
+
+.button{
+  background: #dabe84;
+}
+
+#services{
+  background: #91c3ff;
+}
+
+.footer{
+  color: #1267cc;
+}
+
+.title h2{
+  color: #c7ad78;
+}

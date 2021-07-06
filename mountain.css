@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+header{
+  background: url(https://i.pinimg.com/564x/12/6a/48/126a481950fbef8c7eacd3d43990826d.jpg) no-repeat center top / cover;
+}
+
+.button{
+  background: #5e84a5;
+}
+
+#services{
+  background: #8cacbff0;
+}
+
+.footer{
+  color: #1267cc;
+}
+
+.title h2{
+  color:#4c9044;
+}
+
+.services_item img{
+  width: 170px;
+}
